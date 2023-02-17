@@ -1,0 +1,4 @@
+sig/__pycache__
+sig/migrate/__pycache__
+signals/__pycache__
+db.sqlite3
